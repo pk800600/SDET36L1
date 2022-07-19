@@ -19,9 +19,10 @@ public class Practice1Test {
 		Reporter.log("Hello",true);
 	}
 	
-//	@Test
-//	public void practice3Test()
-//	{
-//		Reporter.log("Executing Test3",true);
-//	}
+	@Test
+	public void practice3Test()
+	{
+		Reporter.log("Executing Test3",true);
+	}
 }
+//test case done
