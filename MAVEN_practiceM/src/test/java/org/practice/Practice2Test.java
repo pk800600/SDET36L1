@@ -24,5 +24,7 @@ public class Practice2Test {
 	public void m2Test()
 	{
 		System.out.println("m2 method is executing");
+		System.out.println("m2 method is running and executing");
+		System.out.println("m2 method is accepting");
 	}
 }
