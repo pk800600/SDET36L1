@@ -10,6 +10,8 @@ public class Practice1Test {
 	{
 		Reporter.log("Executing Test1",true);
 		Reporter.log("Executing again Test1",true);
+		
+		System.out.println("Bye");
 	}
 	
 	@Test
@@ -26,3 +28,5 @@ public class Practice1Test {
 	}
 }
 //good evening
+//test case done
+
