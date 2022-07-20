@@ -12,6 +12,7 @@ public class Practice1Test {
 		Reporter.log("Executing again Test1",true);
 		//hii
 		System.out.println("Bye");
+		System.out.println("Hii");
 	}
 	
 	@Test
