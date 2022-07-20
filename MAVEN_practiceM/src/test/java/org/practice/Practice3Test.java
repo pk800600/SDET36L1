@@ -15,7 +15,13 @@ public class Practice3Test {
 	@Test
 	public void m2Test()
 	{
+		String BROWSER= System.getProperty("browser");
+		String URL=System.getProperty("url");
+		System.out.println("Browser====="+BROWSER);
+		System.out.println("url ======="+URL);
+		
 		System.out.println("Running test2");
+		
 	}
 	
 	@Test
