@@ -20,7 +20,6 @@ public class Practice3Test {
 		System.out.println("Browser====="+BROWSER);
 		System.out.println("url ======="+URL);
 		
-		System.out.println("Running test2");
 		
 	}
 	
