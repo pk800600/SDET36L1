@@ -9,7 +9,7 @@ public class Practice3Test {
 	{
 		System.out.println("Running test1");
 		System.out.println("hii");
-		System.out.println("hello");
+		
 	}
 	
 	@Test
