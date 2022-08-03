@@ -23,7 +23,7 @@ public class SDET36GridPractice {
 		RemoteWebDriver driver=new RemoteWebDriver(url,cap);
 		
 		//step 4: load the app
-		driver.get("https://gmail.com");
+		driver.get("https://gmail.com");//done
 	}
 
 }
