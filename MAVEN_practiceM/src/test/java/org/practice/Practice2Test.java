@@ -10,7 +10,7 @@ public class Practice2Test {
 		String url=System.getProperty("URL");
 		String browser=System.getProperty("BROWSER");
 		String username=System.getProperty("USERNAME");
-		String password=System.getProperty("PASSWORD");
+		String password=System.getProperty("PASSWORD");//hello
 		
 		System.out.println("display method is executing");
 		System.out.println("url======>"+url);
